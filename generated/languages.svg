@@ -50,6 +50,7 @@ li {
   animation-name: slideIn;
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
+  color: rgb(221, 224, 242);
 }
 
 @keyframes slideIn {
